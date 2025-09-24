@@ -5,48 +5,49 @@
 <br>
 [Cleaned dataset](https://docs.google.com/spreadsheets/d/15BeDA8kQ6lN_FkOiYgXhT0LnzvtRFs6q/edit?usp=drive_link&ouid=106760994882511478209&rtpof=true&sd=true)
 <br>
-[Data Visualization using Tableau](https://public.tableau.com/views/Superstore-Visualization_17586529430500/CustomerDemographic?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)<BR>
+[My Tableau workbook](https://public.tableau.com/views/Superstore-Visualization_17586529430500/CustomerDemographic?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)<BR>
 <br>
 <br>
 **1. Customer Demographic:**
 The pie chart below shows the distribution of unique order IDs with respect to the USA states. Basically, it shows the number of customers in each state. 
-Most number of customers reside in California, followed by New York and Texas, which is surprising, we will later see why. 
+**Most number of customers reside in California, followed by New York and Texas**, which is surprising, we will later see why. 
 This means Superstore has a strong customer base in those states so they can establish more stores in those areas.
 <br>
-[customers by state](<img width="738" height="528" alt="image" src="https://github.com/user-attachments/assets/97c9eb64-7565-418c-a09f-14bd0b09deea" />)
+<img width="738" height="400" alt="image" src="https://github.com/user-attachments/assets/97c9eb64-7565-418c-a09f-14bd0b09deea" />
 <br>
 <br>
 **2. Best-selling product:**
-Phones and chairs are the top 2 best-selling products. The stores should stock up more of these to make sure they never run out if a customer shows up looking for any one of them.
+**Phones and chairs are the top 2 best-selling products.** The stores should stock up more of these to make sure they never run out if a customer shows up looking for any one of them.
 <br>
-[Best-selling product](<img width="888" height="470" alt="image" src="https://github.com/user-attachments/assets/5d126db1-8d9f-4e9f-9cf4-ecf679c299fe" />)
+<img width="888" height="400" alt="image" src="https://github.com/user-attachments/assets/5d126db1-8d9f-4e9f-9cf4-ecf679c299fe" />
 <br>
 <br>
 **3. Profit by Year:**
-First observation is that the month of February has very low profit compared to the other months for all the years. The low sales have been consistent so one advice for the company would be to look more into this. A good suggestion would be to offer more discounts during that month to boost sales. They can also advertise products which are only bought in February, like gifts for Valentine’s Day. They can stock up relevant things for such important occasions.
-A huge loss is noticeable in the years 2014 and 2015 for the months July and January simultaneously. Superstore should look into this past data to understand the reasoning behind it, in order to prevent this from happening again. 
+First observation is that the month of **February has very low profit compared to the other months for all the years.** The low sales have been consistent so one advice for the company would be to look more into this. A good suggestion would be to offer more discounts during that month to boost sales. They can also advertise products which are only bought in February, like gifts for Valentine’s Day. They can stock up relevant things for such important occasions.
+**A huge loss is noticeable in the years 2014 and 2015 for the months July and January simultaneously.** Superstore should look into this past data to understand the reasoning behind it, in order to prevent this from happening again. 
 So far, no huge losses have occurred in 2016 and 2017. Also, the year 2017 occupies the most area in this area chart. This shows Superstore has improved their profits over the years. They should implement ways to maintain this streak.
 <br>
-[Profit by year](<img width="1020" height="669" alt="image" src="https://github.com/user-attachments/assets/437a2b3d-bb6e-4125-ac19-88c67f77cfda" />)
+<img width="1020" height="450" alt="image" src="https://github.com/user-attachments/assets/437a2b3d-bb6e-4125-ac19-88c67f77cfda" />
 <br>
 <br>
 **4. Profit and Discount:**
-The stacked bar chart below shows us the region wise discount, profit and sales. The least profitable region is the central region followed by the south. But the sales for central region are higher than for the south. The reason behind this seems to be the discount. More discount is offered in the central areas and hence the profit is so low, in spite of good number of sales. The company should reduce the discount given in this region to maximize their profit because the current scheme is clearly not working in their favour.  
-To prove the above statement, we can refer to the scatter plot below. We can see that as discount increases; profit reduces and moves closer to the negative values. Profit and discount have a negative correlation. The team should come up with a smart and a better discount plan.
+The stacked bar chart below shows us the region wise discount, profit and sales. **The least profitable region is the central region** followed by the south. But the sales for central region are higher than for the south. The reason behind this seems to be the discount. More discount is offered in the central areas and hence the profit is so low, in spite of good number of sales. The company should reduce the discount given in this region to maximize their profit because the current scheme is clearly not working in their favour.  
+To prove the above statement, we can refer to the scatter plot below. We can see that as discount increases; profit reduces and moves closer to the negative values. **Profit and discount have a negative correlation.** The team should come up with a smart and a better discount plan.
 <br>
-[]()
+<img width="1081" height="873" alt="image" src="https://github.com/user-attachments/assets/ca5a4e44-545c-4fdd-8ae9-ad36c3a7d4f2" />
 <br>
 <br>
 **5. Non-profitable States:**
-Moving further into the discussion of profit. The map below shows us the least profitable states. The top 3 of them are Texas, Pennsylvania and Ohio. The next bar chart shows us the number of sales for these 3 states. Texas has a high number of sales and yet it’s causing the most loss. Before we saw that many customers are from Texas. Hence this is a major issue. This is a massively important topic to look into. To solve this, they can try reducing some number of stores in Texas, the stores which do not generate much profit. The green bar chart proves that the discount given in Texas is much higher. In fact, another bar chart showed us that Texas has the most discount opportunities among all the states. A change in the discount scheme is a requirement. 
+Moving further into the discussion of profit. The map below shows us the least profitable states. The top 3 of them are Texas, Pennsylvania and Ohio. The next bar chart shows us the number of sales for these 3 states. **Texas has a high number of sales and yet it’s causing the most loss.** Before we saw that many customers are from Texas. Hence this is a major issue. This is a massively important topic to look into. To solve this, they can try reducing some number of stores in Texas, the stores which do not generate much profit. The green bar chart proves that the discount given in Texas is much higher. In fact, another bar chart showed us that Texas has the most discount opportunities among all the states. A change in the discount scheme is a requirement. 
 <br>
-[]()
+<img width="971" height="784" alt="image" src="https://github.com/user-attachments/assets/e0e883a1-3aa1-40d5-85fc-dd9842047473" />
+<img width="977" height="231" alt="image" src="https://github.com/user-attachments/assets/31e98fa1-c173-4239-aabd-7e3d067fd9e0" />
 <br>
 <br>
 **6. Profit by Categories:**
-The store sells products which are majorly divided into 3 broad categories, furniture, office supplies and technology. The most profit is generated by technology products. The least profit is generated by furniture. Diving deep into the categories, we see that the store sells chairs, tables, bookcases, etc. for furniture. According to the second chart, chairs are very profitable, meanwhile the tables are responsible for a loss. They should stop selling tables altogether, because despite many are sold, they are no good for the business. Same goes for the bookcases. Supplies are also responsible for a loss but it’s nothing major. They can decide to make changes to this sub-category or not.
+The store sells products which are majorly divided into 3 broad categories, furniture, office supplies and technology. The most profit is generated by technology products. The least profit is generated by furniture. Diving deep into the categories, we see that the store sells chairs, tables, bookcases, etc. for furniture. According to the second chart, **chairs are very profitable, meanwhile the tables are responsible for a loss.** They should stop selling tables altogether, because despite many are sold, they are no good for the business. Same goes for the bookcases. Supplies are also responsible for a loss but it’s nothing major. They can decide to make changes to this sub-category or not.
 <br>
-[]()
+<img width="1057" height="853" alt="image" src="https://github.com/user-attachments/assets/01a6ab1e-2e5a-4b7e-9376-459f73158eff" />
 <br>
 <br>
 **7. Findings and solutions:**
