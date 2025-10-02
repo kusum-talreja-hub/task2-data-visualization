@@ -1,4 +1,4 @@
-# task2-data-visualization of superstore dataset
+# task2- data visualization of superstore dataset
 This is my task 2 for my internship at Elevate Labs. The dataset used is Superstore.csv. This is all about how data visualization helps with analysis and identifying trends. 
 <br>
 Tableau Public was used for all the data visualization and Excel was used for data cleaning.
